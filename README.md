@@ -1,2 +1,4 @@
-# OSU_CS
-Repository of work from OSU degree
+Vincent Yasi
+yasiv@oregonstate.edu
+purple
+Styx
